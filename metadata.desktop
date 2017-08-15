@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=Gentoo Black Theme
+Name=SDDM Gentoo Black Theme
 Description=A simple SDDM theme for Gentoo.
 Screenshot=screenshot.png
 License=CC-BY-SA
@@ -9,5 +9,5 @@ Screenshot=screenshot.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=gentoo-black-theme
+Theme-Id=sddm-gentoo-black-theme
 Theme-API=2.0
